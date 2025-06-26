@@ -1,7 +1,7 @@
 /MDK-ARM/*
-!/.vscode
-!/.eide/eide.json
+!/MDK-ARM/.vscode/
+!/MDK-ARM/.eide/eide.json
 
-/Drivers
+/Drivers/*
 
 .mxproject

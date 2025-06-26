@@ -11,4 +11,7 @@ void imu_write_reg(uint8_t address, uint8_t data) {
     ICM42688_NSS_HIGH();
 }
 
-void icm42688_init(void) {}
+
+void icm42688_init(void) {
+    
+}
